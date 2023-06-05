@@ -4,4 +4,25 @@
 - Мои качества: организованность, оптимизм, целеустремленность, гибкость и всегда улыбчивость.
 
 ## Concomitante Experience
-[web](samples/1.md) | [svg](https://github.com/43303246) | [daw](https://github.com/43302516) | [mov](https://github.com/57583240)
+
+### languages
+<sup>_[more…]()_</sup>
+
+### web development
+<sup>_[more…](https://github.com/43320888)_</sup> 
+
+### screenwriting
+<sup>_[more…]()_</sup> 
+
+### painting
+<sup>_[more…](https://github.com/43303246)_</sup> 
+
+### video production
+<sup>_[more…](https://github.com/57583240)_</sup> 
+
+### audio composing
+<sup>_[more…](https://github.com/43302516)_</sup> 
+
+### china business
+<sup>_[more…]()_</sup> 
+
