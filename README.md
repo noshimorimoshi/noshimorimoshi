@@ -12,7 +12,11 @@
 <sup>_[more…](https://github.com/43320888)_</sup> 
 
 ### screenwriting
-<sup>_[more…]()_</sup> 
+Принципы: 
+- политкорректность;
+- дипломатия;
+- …
+- <sup>_[more…]()_</sup> 
 
 ### painting
 <sup>_[more…](https://github.com/43303246)_</sup> 
