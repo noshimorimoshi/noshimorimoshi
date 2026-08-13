@@ -42,6 +42,8 @@ Prokhor Vasilev, Мужчина, родился 4 апреля 1987
 ### audio composing
 <sup>_[more…](https://github.com/43302516)_</sup> 
 
-### china business
-<sup>_[more…]()_</sup> 
+### arbitrage
+1. financial: <sup>_[more…]()_</sup> 
+2. freight: <sup>_[more…]()_</sup> 
+3. traffic: <sup>_[more…]()_</sup> 
 
